@@ -1,2 +1,0 @@
-# gitdem
-Devops experiment demonstration.
